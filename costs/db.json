@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "COSTS",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Contratação",
+          "cost": "250",
+          "description": "Desenvolvedor JavaScript",
+          "id": "89bce7b1-cc08-4e0e-abd6-c97d2778a993"
+        },
+        {
+          "name": "Contratação",
+          "cost": "250",
+          "description": "CSS",
+          "id": "e54dc20d-bcb0-40e8-a31a-e01185a89697"
+        },
+        {
+          "name": "Contratação",
+          "cost": "250",
+          "description": "HTML",
+          "id": "810ea365-8fdd-4d0e-9096-8ff8c4146748"
+        },
+        {
+          "name": "Servidor",
+          "cost": "250",
+          "description": "Contratação de servidor para alocação do projeto",
+          "id": "7d55cf37-1d35-4592-a8ec-43f99b83e999"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
